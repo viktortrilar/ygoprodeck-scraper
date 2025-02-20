@@ -27,6 +27,8 @@ Date,Country,Tournament,Participants,Winner,Tier
 08-02-2025,United States,Las Vegas WCQ Regional,220,Mitchell Martin,Regional
 08-02-2025,Guam,Hagatna WCQ Regional,40,,Regional
 08-02-2025,Germany,Schwandorf WCQ Regional,80,,Regional
+08-02-2025,United Kingdom,YCS Birmingham,2496,Dinh-Kha Bui,YCS
+08-02-2025,Brazil,Latin America Remote Duel YCS,294,Carlos Rafael Mejia Guardian,YCS
 02-02-2025,France,Le Kremlin-Bicêtre WCQ Regional,300,Ludovic Lefevre,Regional
 02-02-2025,United Kingdom,Newcastle WCQ Regional,120,,Regional
 02-02-2025,Italy,Roma WCQ Regional,128,Gianni Barone,Regional
@@ -39,6 +41,201 @@ Date,Country,Tournament,Participants,Winner,Tier
 01-02-2025,Chile,Concepción WCQ Regional,99,Jose-Pedro Opazo,Regional
 01-02-2025,Mexico,Mexico City WCQ Regional,602,Misael Garcia,Regional
 01-02-2025,Argentina,Buenos Aires WCQ Regional,163,Leandro Riolo,Regional
+01-02-2025,United States,YCS Orlando,2274,Tayveon Crowley,YCS
+01-02-2025,United States,YCS Anaheim,1429,Steven Trifunoski,YCS
+01-02-2025,Italy,YCS Bologna,2504,Matthieu Bricard,YCS
+01-02-2025,United States,NA Remote Duel YCS,429,Mario De Micco,YCS
+01-02-2025,Ecuador,YCS Guayaquil,330,Landon Oliver,YCS
+01-02-2025,Canada,YCS Niagara Falls,875,Landon Oliver,YCS
+01-02-2025,Mexico,YCS Cancún,372,Ittipat Arunnaveesiri,YCS
+01-02-2025,Chile,Team YCS Santiago,372,TCG Life Anexo,YCS
+01-02-2025,France,YCS Lille,1897,Noël Hamel,YCS
+01-02-2025,United States,YCS Sacramento,915,Jesse Kotton,YCS
+01-02-2025,Germany,European WCQ Playoffs,16,Baptiste Derouin,YCS
+01-02-2025,Germany,European WCQ 2024,2285,Esteban Re,YCS
+01-02-2025,United States,North America WCQ 2024,2635,Aditya Dharap,YCS
+01-02-2025,United States,North America WCQ Playoffs,16,Ruben Penaranda,YCS
+01-02-2025,Peru,South America WCQ Playoffs,32,Adrian Gregory George,YCS
+01-02-2025,New Zealand,Oceanic WCQ 2024,271,Fox Chudleigh,YCS
+01-02-2025,Peru,South America WCQ 2024,516,Juan Carlos La Torre Infantas,YCS
+01-02-2025,Mexico,Central America WCQ Playoffs,32,Juan Daniel Juarez Nequiz,YCS
+01-02-2025,Mexico,Central America WCQ 2024,1169,Luis Gabriel Romo Rosas,YCS
+01-02-2025,Bulgaria,Bulgaria National Championship 2024,150,Nikola Stefanov,YCS
+01-02-2025,Germany,Germany National Championship 2024,2123,Julius Schwarzkopf,YCS
+01-02-2025,United Kingdom,UK National Championship 2024,1300,Rob Ellam,YCS
+01-02-2025,Lithuania,Lithuania National Championship 2024,57,Mantas Navickas,YCS
+01-02-2025,Israel,Israel National Championship 2024,117,Oded Moshe,YCS
+01-02-2025,Belgium,Belgium National Championship 2024,220,Erik Winkler,YCS
+01-02-2025,Hungary,Hungary National Championship 2024,129,David Kovacs,YCS
+01-02-2025,Brazil,Brazil National Championship 2024,813,Gustavo Vilella,YCS
+01-02-2025,Italy,Italy National Championship 2024,1307,Lorenzo Muselli,YCS
+01-02-2025,Ireland,Ireland National Championship 2024,250,Dean Sanlon,YCS
+01-02-2025,Switzerland,Switzerland National Championship 2024,300,Firat Karatas,YCS
+01-02-2025,Argentina,Argentina National Championship 2024,594,Fabricio La Cruz,YCS
+01-02-2025,United States,YCS Indianapolis,1788,Paulo Goncalves da Silva,YCS
+01-02-2025,El Salvador,El Salvador National Championship 2024,300,Carlos Gonzalez,YCS
+01-02-2025,Colombia,Colombia National Championship 2024,484,Pablo Dominguez,YCS
+01-02-2025,Denmark,Denmark National Championship 2024,159,Alexander Andersen,YCS
+01-02-2025,Portugal,Portugal National Championship 2024,180,Kostadin Kasabov,YCS
+01-02-2025,Slovenia,Slovenia National Championship 2024,136,Federico Marmeggi,YCS
+01-02-2025,Sweden,Sweden National Championship 2024,104,Herman Hansson,YCS
+01-02-2025,Spain,Spain National Championship 2024,400,Ruben Lima,YCS
+01-02-2025,New Zealand,North Island State Championships,76,Dino Spasovski,YCS
+01-02-2025,Australia,Victoria State Championships,120,Yuqi Lu,YCS
+01-02-2025,Bolivia,Bolivia National Championship 2024,280,Alberzon Ajata Argollo,YCS
+01-02-2025,Trinidad and Tobago,Trinidad and Tobago National Championship 2024,250,Sanjay Manoo,YCS
+01-02-2025,Ecuador,Ecuador National Championship 2024,350,Paul David Delgado Rezabala,YCS
+01-02-2025,Chile,Chile National Championship 2024,423,Jose Aramin,YCS
+01-02-2025,Croatia,Croatia National Championship 2024,300,Srdjan Mihajlović,YCS
+01-02-2025,Australia,Western Australia State Championship,100,Yatin Patel,YCS
+01-02-2025,Australia,New South Wales State Championship,120,Peter Mitro,YCS
+01-02-2025,Honduras,Honduras National Championship 2024,172,Eduardo Antonio Vega Martinez,YCS
+01-02-2025,Mexico,Mexico National Championship 2024,775,Rene Pacheco,YCS
+01-02-2025,Venezuela,Venezuela National Championship 2024,200,Alnardo Aguilera,YCS
+01-02-2025,Greece,Greece National Championship 2024,225,Giannis Tato,YCS
+01-02-2025,France,France National Championship 2024,2300,Anthony Lopes,YCS
+01-02-2025,Austria,Austria National Championship 2024,394,Florian Gönner,YCS
+01-02-2025,South Africa,Johannesburg State Championships,92,,YCS
+01-02-2025,South Africa,Cape Town State Championships,250,,YCS
+01-02-2025,Guatemala,Guatemala National Championship 2024,215,Sebastian Muralles,YCS
+01-02-2025,New Zealand,South Island State Championships,76,Samuel John,YCS
+01-02-2025,Australia,South Australia State Championships,76,Chris McConnarchy,YCS
+01-02-2025,Netherlands,Netherlands National Championship 2024,300,Baptiste Derouin,YCS
+01-02-2025,Costa Rica,Costa Rica National Championship 2024,400,Cesar Saborio,YCS
+01-02-2025,Peru,Peru National Championship 2024,452,Renzo Vanini,YCS
+01-02-2025,Dominican Republic,Dominican Republic National Championship 2024,300,Alberto Imbert,YCS
+01-02-2025,Nicaragua,Nicaragua National Championship 2024,154,Dexter Sequeira,YCS
+01-02-2025,Australia,Queensland State Championships 2024,104,Joshua Ng,YCS
+01-02-2025,Brazil,YCS Rio de Janeiro,378,Rafael Mariano Reich,YCS
+01-02-2025,United States,YCS Raleigh,1793,Cameron Neal,YCS
+01-02-2025,Mexico,YCS Guadalajara,833,Cristian Urena,YCS
+01-02-2025,Colombia,YCS Medellin,483,Cristian Urena,YCS
+01-02-2025,Australia,YCS Sydney,917,Jason Huang,YCS
+01-02-2025,United States,Team YCS Las Vegas,1674,The Jawhari Brothers,YCS
+01-02-2025,Costa Rica,Team YCS San Jose,408,Kids Next Door,YCS
+01-02-2025,United States,Undisputed Ultimate Duelist Series,16,Jesse Kotton,YCS
+01-02-2025,Brazil,Latin America Remote Duel YCS,520,Rafael Mariano Reich,YCS
+01-02-2025,Italy,YCS Bologna,2488,Joshua Schmidt,YCS
+01-02-2025,United States,YCS Richmond,1494,Joseph Bellafiore,YCS
+01-02-2025,Bolivia,YCS Santa Cruz de la Sierra,260,Michel Verissimo Da Silva,YCS
+01-02-2025,United States,YCS Indianapolis,1957,Steven Santoli,YCS
+01-02-2025,Germany,YCS Dortmund,2580,Julius Schwarzkopf,YCS
+01-02-2025,Mexico,YCS Cancún,766,Andree Chavez Curioso,YCS
+01-02-2025,Canada,YCS Vancouver,735,Jesse Kotton,YCS
+01-02-2025,Brazil,Team YCS São Paulo,588,Better Have It,YCS
+01-02-2025,United States,North America WCQ 2023,3003,Jeremy Mitchell,YCS
+01-02-2025,United States,NA Worlds Qualifier Playoffs,32,Paulie Aronson,YCS
+01-02-2025,Australia,Oceanic Championship 2023,335,Kunlun Lei,YCS
+01-02-2025,Netherlands,European WCQ 2023,1900,Jessica Robinson,YCS
+01-02-2025,Netherlands,EU Worlds Qualifier Playoffs,32,,YCS
+01-02-2025,United States,NA Remote Duel YCS,272,Steven Santoli,YCS
+01-02-2025,Ecuador,South America WCQ,439,Santiago Marin,YCS
+01-02-2025,Germany,Germany National Championship 2023,1980,Dinh-Kha Bui,YCS
+01-02-2025,Serbia,Serbia National Championship 2023,300,Damjan Mitrovic,YCS
+01-02-2025,New Zealand,NZ North Island State Championship,100,Sini Collects,YCS
+01-02-2025,Denmark,Denmark National Championship 2023,138,Anton Hjollund,YCS
+01-02-2025,France,France National Championship 2023,2024,Tristan Rémond,YCS
+01-02-2025,Mexico,Central America WCQ 2023,900,Carlos Jesus Mercado,YCS
+01-02-2025,Mexico,Central America WCQ Playoffs,25,Roberto Arce Lopez,YCS
+01-02-2025,Chile,Chile National Championship 2023,462,,YCS
+01-02-2025,Trinidad and Tobago,Trinidad and Tobago National Championship 2023,306,Ajay Sieunarine,YCS
+01-02-2025,Argentina,Argentina National Championship 2023,504,Julian Jimenez,YCS
+01-02-2025,Italy,Italy National Championship 2023,1643,Lorenzo Muselli,YCS
+01-02-2025,Netherlands,Netherlands National Championship 2023,348,Baptiste Derouin,YCS
+01-02-2025,Slovenia,Slovenia National Championship 2023,112,Urban Kastelic,YCS
+01-02-2025,United States,YCS Philadelphia,2265,Denis Nadas,YCS
+01-02-2025,South Africa,South Africa State Championship 2023,100,,YCS
+01-02-2025,Hungary,Hungary National Championship 2023,143,Oros Máté,YCS
+01-02-2025,Finland,Finland National Championship 2023,51,Janis Bernhards,YCS
+01-02-2025,Peru,Peru National Championship 2023,486,Joseph Mendez,YCS
+01-02-2025,United Kingdom,UK National Championship 2023,1022,Danny Khan,YCS
+01-02-2025,Dominican Republic,Dominican Republic National Championship 2023,200,Giancarlos Valdez,YCS
+01-02-2025,Ecuador,Ecuador National Championship 2023,310,,YCS
+01-02-2025,Panama,Panama National Championship 2023,200,Carlos De Gracia,YCS
+01-02-2025,Colombia,Colombia National Championship 2023,300,Marco Lopez,YCS
+01-02-2025,Australia,New South Wales State Championship 2023,118,Poe Jiang,YCS
+01-02-2025,Australia,Western Australia State Championship,64,Yatin Patel,YCS
+01-02-2025,Spain,Spain National Championship 2023,380,Antonio Torres,YCS
+01-02-2025,Venezuela,Venezuela National Championship 2023,200,Carlos Eduardo Hung Tineo,YCS
+01-02-2025,Mexico,Mexico National Championship 2023,600,Edgar Cabanas,YCS
+01-02-2025,New Zealand,South Island State Championship 2023,50,Andrew Doodson,YCS
+01-02-2025,Belgium,Belgium National Championship 2023,198,Christophe Faite,YCS
+01-02-2025,Austria,Austria National Championship 2023,300,An Qi Xu,YCS
+01-02-2025,Chile,YCS Santiago,488,Eddie Andre Alba,YCS
+01-02-2025,Bulgaria,Bulgaria National Championship 2023,154,Viktor Yordanov,YCS
+01-02-2025,Croatia,Croatia National Championship 2023,192,Luka Forjan,YCS
+01-02-2025,Australia,Victoria State Championship 2023,129,Zhenghao Shi,YCS
+01-02-2025,Bolivia,Bolivia National Championship 2023,200,Eddie Alba,YCS
+01-02-2025,Greece,Greece National Championship 2023,232,Christos Mourikis,YCS
+01-02-2025,Brazil,Brazil National Championship 2023,700,Leonardo Martins,YCS
+01-02-2025,Sweden,Sweden National Championship 2023,88,Loa Strandberg,YCS
+01-02-2025,Switzerland,Switzerland National Championship 2023,309,Jeremy Bays,YCS
+01-02-2025,Israel,Israel National Championship 2023,124,Gal Sonnenfeld,YCS
+01-02-2025,Costa Rica,Costa Rica National Championship 2023,400,Kevin Martinez,YCS
+01-02-2025,Guatemala,Guatemala National Championship 2023,180,Sebastian Muralles Quezada,YCS
+01-02-2025,El Salvador,El Salvador National Championship 2023,196,Wilfredo Avelenda,YCS
+01-02-2025,Ireland,Ireland National Championship 2023,206,Luke Smythe,YCS
+01-02-2025,Portugal,Portugal National Championship 2023,152,Adrián Quintás,YCS
+01-02-2025,Colombia,YCS Bogota,1126,Esteban Velásquez,YCS
+01-02-2025,United States,YCS Los Angeles,3225,Paulie Aronson,YCS
+01-02-2025,United Kingdom,YCS London,3600,Samir Bachar,YCS
+01-02-2025,Peru,YCS Lima,600,Jhon Guerrero,YCS
+01-02-2025,United States,Team YCS Vegas,1155,Dominic Couch,YCS
+01-02-2025,France,YCS Lyon,2397,Chris LeBlanc,YCS
+01-02-2025,Mexico,Team YCS Mexico City,2101,Arnold Nadaban,YCS
+01-02-2025,Brazil,LATAM Remote Duel YCS,378,Jhon David Guerrero Sanchez,YCS
+01-02-2025,Australia,YCS Sydney,751,Jesse Kotton,YCS
+01-02-2025,United States,NA Remote Duel YCS (December 2022),514,Cristian Urena,YCS
+01-02-2025,Costa Rica,YCS Costa Rica,445,Jesse Kotton,YCS
+01-02-2025,Germany,YCS Dortmund,2580,Vincenzo Orofino,YCS
+01-02-2025,United States,YCS Pasadena 2022,1805,Hani Yasser Jawhari,YCS
+01-02-2025,United States,YCS Minneapolis,1085,Christopher LeBlanc ,YCS
+01-02-2025,Netherlands,YCS Utrecht,2100,Joshua Schmidt,YCS
+01-02-2025,Canada,YCS Niagara Falls,837,Raymond Dai ,YCS
+01-02-2025,Australia,Oceanic WCQ 2022,435,Dino Spasovski,YCS
+01-02-2025,Brazil,YCS Rio de Janeiro,456,João Paulo Lima,YCS
+01-02-2025,Belgium,European WCQ 2022,2078,Marcus Patel,YCS
+01-02-2025,United States,Arkansas WCQ Regional,50,Aaron,YCS
+01-02-2025,United States,Hollywood WCQ Regional,100,Kamal Crooks,YCS
+01-02-2025,United States,North America WCQ 2022,1840,Hansel Aguero,YCS
+01-02-2025,Germany,Germany National Championships,1844,Daniel Hartmann,YCS
+01-02-2025,Italy,Italy National Championships,650,Diego Ganzerli,YCS
+01-02-2025,Panama,Central America WCQ 2022,672,Alain Muñoz G.,YCS
+01-02-2025,Hungary,Hungary National Championships,145,Szabó Tamás,YCS
+01-02-2025,Denmark,Denmark National Championship 2022,120,Junda Zhang,YCS
+01-02-2025,Greece,Greece National Championships,80,Stefanos Fostieris,YCS
+01-02-2025,Honduras,Honduras National Championships,200,Polidecto Correa,YCS
+01-02-2025,Slovenia,Slovenia National Championships,122,Karlo Siketic,YCS
+01-02-2025,Bulgaria,Bulgaria National Championships,120,Alexander Manov,YCS
+01-02-2025,Israel,Israel National Championships,150,Shaked Assayag,YCS
+01-02-2025,United States,YCS Hartford,1238,Poe Jiang,YCS
+01-02-2025,Finland,Finland National Championships,783,Aatu Gröhn,YCS
+01-02-2025,Austria,Austria National Championship,120,Peter Müllner,YCS
+01-02-2025,Bolivia,Bolivia National Championship,100,Fernando Morales Mamani,YCS
+01-02-2025,Ireland,Ireland National Championship,128,Matthew Brady,YCS
+01-02-2025,Mexico,YCS Guadalajara,1243,Andres Torres,YCS
+01-02-2025,United States,YCS Charlotte,1005,Elijah Green,YCS
+01-02-2025,Germany,EU Remote Duel YCS (January 2022),1284,Simon He,YCS
+01-02-2025,United Kingdom,EU Remote Duel YCS,1796,Raphael Neven,YCS
+01-02-2025,Brazil,South America Remote Duel YCS,1179,Andres David T.,YCS
+01-02-2025,Germany,YCS Utrecht,2227,Ryhan Jabri,YCS
+01-02-2025,Italy,YCS Milan,1945,Andreas Vrellos,YCS
+01-02-2025,United States,YCS Pasadena,1578,Kobe Short,YCS
+01-02-2025,Netherlands,European WCQ 2019,1900,Gabriel Soussi,YCS
+01-02-2025,United States,YCS Knoxville,895,Jesse Kotton,YCS
+01-02-2025,Guatemala,YCS Guatemala City,286,Paulo Goncalves,YCS
+01-02-2025,Australia,YCS Sydney,1050,Onur Gezer,YCS
+01-02-2025,Italy,YCS Milan,1767,Dinh-Kha Bui,YCS
+01-02-2025,Brazil,YCS Sao Paulo,455,Henrique Domingues Nascimento,YCS
+01-02-2025,Germany,European WCQ 2018,1624,Luke Parkes,YCS
+01-02-2025,United States,YCS Secaucus,1321,Dakota Angeloff,YCS
+01-02-2025,Czech Republic,YCS Prague II,1027,Raphael Neven,YCS
+01-02-2025,United States,YCS Dallas,1121,Imran Khan,YCS
+01-02-2025,Italy,YCS Rimini,1040,Andreas Vrellos,YCS
+01-02-2025,United States,YCS Origins,629,Jacob Phinney,YCS
+01-02-2025,United States,YCS Dallas,1287,Erik Christensen,YCS
+01-02-2025,United States,YCS Dallas,1131,Billy Brake,YCS
+01-02-2025,Brazil,YCS Sao Paulo,350,Carlos Henrique De Araujo Freitas,YCS
 26-01-2025,Mexico,Monterrey WCQ Regional,250,Joan Saavedra,Regional
 26-01-2025,Peru,Trujillo WCQ Regional,300,Gonzalo Catacora,Regional
 26-01-2025,France,Saintes WCQ Regional,65,Donovan Leblanc,Regional
@@ -1473,200 +1670,3 @@ Date,Country,Tournament,Participants,Winner,Tier
 14-12-2024,Germany,Frankfurt WCQ Regional,150,Andreas G,Regional
 14-12-2024,United Kingdom,Newcastle WCQ Regional,45,Allisdair Bowman,Regional
 14-12-2024,United Kingdom,Birmingham WCQ Regional,100,,Regional
-08-02-2025,United Kingdom,YCS Birmingham,2496,Dinh-Kha Bui,YCS
-08-02-2025,Brazil,Latin America Remote Duel YCS,294,Carlos Rafael Mejia Guardian,YCS
-01-02-2025,United States,YCS Orlando,2274,Tayveon Crowley,YCS
-01-02-2025,United States,YCS Anaheim,1429,Steven Trifunoski,YCS
-01-02-2025,Italy,YCS Bologna,2504,Matthieu Bricard,YCS
-01-02-2025,United States,NA Remote Duel YCS,429,Mario De Micco,YCS
-01-02-2025,Ecuador,YCS Guayaquil,330,Landon Oliver,YCS
-01-02-2025,Canada,YCS Niagara Falls,875,Landon Oliver,YCS
-01-02-2025,Mexico,YCS Cancún,372,Ittipat Arunnaveesiri,YCS
-01-02-2025,Chile,Team YCS Santiago,372,TCG Life Anexo,YCS
-01-02-2025,France,YCS Lille,1897,Noël Hamel,YCS
-01-02-2025,United States,YCS Sacramento,915,Jesse Kotton,YCS
-01-02-2025,Germany,European WCQ Playoffs,16,Baptiste Derouin,YCS
-01-02-2025,Germany,European WCQ 2024,2285,Esteban Re,YCS
-01-02-2025,United States,North America WCQ 2024,2635,Aditya Dharap,YCS
-01-02-2025,United States,North America WCQ Playoffs,16,Ruben Penaranda,YCS
-01-02-2025,Peru,South America WCQ Playoffs,32,Adrian Gregory George,YCS
-01-02-2025,New Zealand,Oceanic WCQ 2024,271,Fox Chudleigh,YCS
-01-02-2025,Peru,South America WCQ 2024,516,Juan Carlos La Torre Infantas,YCS
-01-02-2025,Mexico,Central America WCQ Playoffs,32,Juan Daniel Juarez Nequiz,YCS
-01-02-2025,Mexico,Central America WCQ 2024,1169,Luis Gabriel Romo Rosas,YCS
-01-02-2025,Bulgaria,Bulgaria National Championship 2024,150,Nikola Stefanov,YCS
-01-02-2025,Germany,Germany National Championship 2024,2123,Julius Schwarzkopf,YCS
-01-02-2025,United Kingdom,UK National Championship 2024,1300,Rob Ellam,YCS
-01-02-2025,Lithuania,Lithuania National Championship 2024,57,Mantas Navickas,YCS
-01-02-2025,Israel,Israel National Championship 2024,117,Oded Moshe,YCS
-01-02-2025,Belgium,Belgium National Championship 2024,220,Erik Winkler,YCS
-01-02-2025,Hungary,Hungary National Championship 2024,129,David Kovacs,YCS
-01-02-2025,Brazil,Brazil National Championship 2024,813,Gustavo Vilella,YCS
-01-02-2025,Italy,Italy National Championship 2024,1307,Lorenzo Muselli,YCS
-01-02-2025,Ireland,Ireland National Championship 2024,250,Dean Sanlon,YCS
-01-02-2025,Switzerland,Switzerland National Championship 2024,300,Firat Karatas,YCS
-01-02-2025,Argentina,Argentina National Championship 2024,594,Fabricio La Cruz,YCS
-01-02-2025,United States,YCS Indianapolis,1788,Paulo Goncalves da Silva,YCS
-01-02-2025,El Salvador,El Salvador National Championship 2024,300,Carlos Gonzalez,YCS
-01-02-2025,Colombia,Colombia National Championship 2024,484,Pablo Dominguez,YCS
-01-02-2025,Denmark,Denmark National Championship 2024,159,Alexander Andersen,YCS
-01-02-2025,Portugal,Portugal National Championship 2024,180,Kostadin Kasabov,YCS
-01-02-2025,Slovenia,Slovenia National Championship 2024,136,Federico Marmeggi,YCS
-01-02-2025,Sweden,Sweden National Championship 2024,104,Herman Hansson,YCS
-01-02-2025,Spain,Spain National Championship 2024,400,Ruben Lima,YCS
-01-02-2025,New Zealand,North Island State Championships,76,Dino Spasovski,YCS
-01-02-2025,Australia,Victoria State Championships,120,Yuqi Lu,YCS
-01-02-2025,Bolivia,Bolivia National Championship 2024,280,Alberzon Ajata Argollo,YCS
-01-02-2025,Trinidad and Tobago,Trinidad and Tobago National Championship 2024,250,Sanjay Manoo,YCS
-01-02-2025,Ecuador,Ecuador National Championship 2024,350,Paul David Delgado Rezabala,YCS
-01-02-2025,Chile,Chile National Championship 2024,423,Jose Aramin,YCS
-01-02-2025,Croatia,Croatia National Championship 2024,300,Srdjan Mihajlović,YCS
-01-02-2025,Australia,Western Australia State Championship,100,Yatin Patel,YCS
-01-02-2025,Australia,New South Wales State Championship,120,Peter Mitro,YCS
-01-02-2025,Honduras,Honduras National Championship 2024,172,Eduardo Antonio Vega Martinez,YCS
-01-02-2025,Mexico,Mexico National Championship 2024,775,Rene Pacheco,YCS
-01-02-2025,Venezuela,Venezuela National Championship 2024,200,Alnardo Aguilera,YCS
-01-02-2025,Greece,Greece National Championship 2024,225,Giannis Tato,YCS
-01-02-2025,France,France National Championship 2024,2300,Anthony Lopes,YCS
-01-02-2025,Austria,Austria National Championship 2024,394,Florian Gönner,YCS
-01-02-2025,South Africa,Johannesburg State Championships,92,,YCS
-01-02-2025,South Africa,Cape Town State Championships,250,,YCS
-01-02-2025,Guatemala,Guatemala National Championship 2024,215,Sebastian Muralles,YCS
-01-02-2025,New Zealand,South Island State Championships,76,Samuel John,YCS
-01-02-2025,Australia,South Australia State Championships,76,Chris McConnarchy,YCS
-01-02-2025,Netherlands,Netherlands National Championship 2024,300,Baptiste Derouin,YCS
-01-02-2025,Costa Rica,Costa Rica National Championship 2024,400,Cesar Saborio,YCS
-01-02-2025,Peru,Peru National Championship 2024,452,Renzo Vanini,YCS
-01-02-2025,Dominican Republic,Dominican Republic National Championship 2024,300,Alberto Imbert,YCS
-01-02-2025,Nicaragua,Nicaragua National Championship 2024,154,Dexter Sequeira,YCS
-01-02-2025,Australia,Queensland State Championships 2024,104,Joshua Ng,YCS
-01-02-2025,Brazil,YCS Rio de Janeiro,378,Rafael Mariano Reich,YCS
-01-02-2025,United States,YCS Raleigh,1793,Cameron Neal,YCS
-01-02-2025,Mexico,YCS Guadalajara,833,Cristian Urena,YCS
-01-02-2025,Colombia,YCS Medellin,483,Cristian Urena,YCS
-01-02-2025,Australia,YCS Sydney,917,Jason Huang,YCS
-01-02-2025,United States,Team YCS Las Vegas,1674,The Jawhari Brothers,YCS
-01-02-2025,Costa Rica,Team YCS San Jose,408,Kids Next Door,YCS
-01-02-2025,United States,Undisputed Ultimate Duelist Series,16,Jesse Kotton,YCS
-01-02-2025,Brazil,Latin America Remote Duel YCS,520,Rafael Mariano Reich,YCS
-01-02-2025,Italy,YCS Bologna,2488,Joshua Schmidt,YCS
-01-02-2025,United States,YCS Richmond,1494,Joseph Bellafiore,YCS
-01-02-2025,Bolivia,YCS Santa Cruz de la Sierra,260,Michel Verissimo Da Silva,YCS
-01-02-2025,United States,YCS Indianapolis,1957,Steven Santoli,YCS
-01-02-2025,Germany,YCS Dortmund,2580,Julius Schwarzkopf,YCS
-01-02-2025,Mexico,YCS Cancún,766,Andree Chavez Curioso,YCS
-01-02-2025,Canada,YCS Vancouver,735,Jesse Kotton,YCS
-01-02-2025,Brazil,Team YCS São Paulo,588,Better Have It,YCS
-01-02-2025,United States,North America WCQ 2023,3003,Jeremy Mitchell,YCS
-01-02-2025,United States,NA Worlds Qualifier Playoffs,32,Paulie Aronson,YCS
-01-02-2025,Australia,Oceanic Championship 2023,335,Kunlun Lei,YCS
-01-02-2025,Netherlands,European WCQ 2023,1900,Jessica Robinson,YCS
-01-02-2025,Netherlands,EU Worlds Qualifier Playoffs,32,,YCS
-01-02-2025,United States,NA Remote Duel YCS,272,Steven Santoli,YCS
-01-02-2025,Ecuador,South America WCQ,439,Santiago Marin,YCS
-01-02-2025,Germany,Germany National Championship 2023,1980,Dinh-Kha Bui,YCS
-01-02-2025,Serbia,Serbia National Championship 2023,300,Damjan Mitrovic,YCS
-01-02-2025,New Zealand,NZ North Island State Championship,100,Sini Collects,YCS
-01-02-2025,Denmark,Denmark National Championship 2023,138,Anton Hjollund,YCS
-01-02-2025,France,France National Championship 2023,2024,Tristan Rémond,YCS
-01-02-2025,Mexico,Central America WCQ 2023,900,Carlos Jesus Mercado,YCS
-01-02-2025,Mexico,Central America WCQ Playoffs,25,Roberto Arce Lopez,YCS
-01-02-2025,Chile,Chile National Championship 2023,462,,YCS
-01-02-2025,Trinidad and Tobago,Trinidad and Tobago National Championship 2023,306,Ajay Sieunarine,YCS
-01-02-2025,Argentina,Argentina National Championship 2023,504,Julian Jimenez,YCS
-01-02-2025,Italy,Italy National Championship 2023,1643,Lorenzo Muselli,YCS
-01-02-2025,Netherlands,Netherlands National Championship 2023,348,Baptiste Derouin,YCS
-01-02-2025,Slovenia,Slovenia National Championship 2023,112,Urban Kastelic,YCS
-01-02-2025,United States,YCS Philadelphia,2265,Denis Nadas,YCS
-01-02-2025,South Africa,South Africa State Championship 2023,100,,YCS
-01-02-2025,Hungary,Hungary National Championship 2023,143,Oros Máté,YCS
-01-02-2025,Finland,Finland National Championship 2023,51,Janis Bernhards,YCS
-01-02-2025,Peru,Peru National Championship 2023,486,Joseph Mendez,YCS
-01-02-2025,United Kingdom,UK National Championship 2023,1022,Danny Khan,YCS
-01-02-2025,Dominican Republic,Dominican Republic National Championship 2023,200,Giancarlos Valdez,YCS
-01-02-2025,Ecuador,Ecuador National Championship 2023,310,,YCS
-01-02-2025,Panama,Panama National Championship 2023,200,Carlos De Gracia,YCS
-01-02-2025,Colombia,Colombia National Championship 2023,300,Marco Lopez,YCS
-01-02-2025,Australia,New South Wales State Championship 2023,118,Poe Jiang,YCS
-01-02-2025,Australia,Western Australia State Championship,64,Yatin Patel,YCS
-01-02-2025,Spain,Spain National Championship 2023,380,Antonio Torres,YCS
-01-02-2025,Venezuela,Venezuela National Championship 2023,200,Carlos Eduardo Hung Tineo,YCS
-01-02-2025,Mexico,Mexico National Championship 2023,600,Edgar Cabanas,YCS
-01-02-2025,New Zealand,South Island State Championship 2023,50,Andrew Doodson,YCS
-01-02-2025,Belgium,Belgium National Championship 2023,198,Christophe Faite,YCS
-01-02-2025,Austria,Austria National Championship 2023,300,An Qi Xu,YCS
-01-02-2025,Chile,YCS Santiago,488,Eddie Andre Alba,YCS
-01-02-2025,Bulgaria,Bulgaria National Championship 2023,154,Viktor Yordanov,YCS
-01-02-2025,Croatia,Croatia National Championship 2023,192,Luka Forjan,YCS
-01-02-2025,Australia,Victoria State Championship 2023,129,Zhenghao Shi,YCS
-01-02-2025,Bolivia,Bolivia National Championship 2023,200,Eddie Alba,YCS
-01-02-2025,Greece,Greece National Championship 2023,232,Christos Mourikis,YCS
-01-02-2025,Brazil,Brazil National Championship 2023,700,Leonardo Martins,YCS
-01-02-2025,Sweden,Sweden National Championship 2023,88,Loa Strandberg,YCS
-01-02-2025,Switzerland,Switzerland National Championship 2023,309,Jeremy Bays,YCS
-01-02-2025,Israel,Israel National Championship 2023,124,Gal Sonnenfeld,YCS
-01-02-2025,Costa Rica,Costa Rica National Championship 2023,400,Kevin Martinez,YCS
-01-02-2025,Guatemala,Guatemala National Championship 2023,180,Sebastian Muralles Quezada,YCS
-01-02-2025,El Salvador,El Salvador National Championship 2023,196,Wilfredo Avelenda,YCS
-01-02-2025,Ireland,Ireland National Championship 2023,206,Luke Smythe,YCS
-01-02-2025,Portugal,Portugal National Championship 2023,152,Adrián Quintás,YCS
-01-02-2025,Colombia,YCS Bogota,1126,Esteban Velásquez,YCS
-01-02-2025,United States,YCS Los Angeles,3225,Paulie Aronson,YCS
-01-02-2025,United Kingdom,YCS London,3600,Samir Bachar,YCS
-01-02-2025,Peru,YCS Lima,600,Jhon Guerrero,YCS
-01-02-2025,United States,Team YCS Vegas,1155,Dominic Couch,YCS
-01-02-2025,France,YCS Lyon,2397,Chris LeBlanc,YCS
-01-02-2025,Mexico,Team YCS Mexico City,2101,Arnold Nadaban,YCS
-01-02-2025,Brazil,LATAM Remote Duel YCS,378,Jhon David Guerrero Sanchez,YCS
-01-02-2025,Australia,YCS Sydney,751,Jesse Kotton,YCS
-01-02-2025,United States,NA Remote Duel YCS (December 2022),514,Cristian Urena,YCS
-01-02-2025,Costa Rica,YCS Costa Rica,445,Jesse Kotton,YCS
-01-02-2025,Germany,YCS Dortmund,2580,Vincenzo Orofino,YCS
-01-02-2025,United States,YCS Pasadena 2022,1805,Hani Yasser Jawhari,YCS
-01-02-2025,United States,YCS Minneapolis,1085,Christopher LeBlanc ,YCS
-01-02-2025,Netherlands,YCS Utrecht,2100,Joshua Schmidt,YCS
-01-02-2025,Canada,YCS Niagara Falls,837,Raymond Dai ,YCS
-01-02-2025,Australia,Oceanic WCQ 2022,435,Dino Spasovski,YCS
-01-02-2025,Brazil,YCS Rio de Janeiro,456,João Paulo Lima,YCS
-01-02-2025,Belgium,European WCQ 2022,2078,Marcus Patel,YCS
-01-02-2025,United States,Arkansas WCQ Regional,50,Aaron,YCS
-01-02-2025,United States,Hollywood WCQ Regional,100,Kamal Crooks,YCS
-01-02-2025,United States,North America WCQ 2022,1840,Hansel Aguero,YCS
-01-02-2025,Germany,Germany National Championships,1844,Daniel Hartmann,YCS
-01-02-2025,Italy,Italy National Championships,650,Diego Ganzerli,YCS
-01-02-2025,Panama,Central America WCQ 2022,672,Alain Muñoz G.,YCS
-01-02-2025,Hungary,Hungary National Championships,145,Szabó Tamás,YCS
-01-02-2025,Denmark,Denmark National Championship 2022,120,Junda Zhang,YCS
-01-02-2025,Greece,Greece National Championships,80,Stefanos Fostieris,YCS
-01-02-2025,Honduras,Honduras National Championships,200,Polidecto Correa,YCS
-01-02-2025,Slovenia,Slovenia National Championships,122,Karlo Siketic,YCS
-01-02-2025,Bulgaria,Bulgaria National Championships,120,Alexander Manov,YCS
-01-02-2025,Israel,Israel National Championships,150,Shaked Assayag,YCS
-01-02-2025,United States,YCS Hartford,1238,Poe Jiang,YCS
-01-02-2025,Finland,Finland National Championships,783,Aatu Gröhn,YCS
-01-02-2025,Austria,Austria National Championship,120,Peter Müllner,YCS
-01-02-2025,Bolivia,Bolivia National Championship,100,Fernando Morales Mamani,YCS
-01-02-2025,Ireland,Ireland National Championship,128,Matthew Brady,YCS
-01-02-2025,Mexico,YCS Guadalajara,1243,Andres Torres,YCS
-01-02-2025,United States,YCS Charlotte,1005,Elijah Green,YCS
-01-02-2025,Germany,EU Remote Duel YCS (January 2022),1284,Simon He,YCS
-01-02-2025,United Kingdom,EU Remote Duel YCS,1796,Raphael Neven,YCS
-01-02-2025,Brazil,South America Remote Duel YCS,1179,Andres David T.,YCS
-01-02-2025,Germany,YCS Utrecht,2227,Ryhan Jabri,YCS
-01-02-2025,Italy,YCS Milan,1945,Andreas Vrellos,YCS
-01-02-2025,United States,YCS Pasadena,1578,Kobe Short,YCS
-01-02-2025,Netherlands,European WCQ 2019,1900,Gabriel Soussi,YCS
-01-02-2025,United States,YCS Knoxville,895,Jesse Kotton,YCS
-01-02-2025,Guatemala,YCS Guatemala City,286,Paulo Goncalves,YCS
-01-02-2025,Australia,YCS Sydney,1050,Onur Gezer,YCS
-01-02-2025,Italy,YCS Milan,1767,Dinh-Kha Bui,YCS
-01-02-2025,Brazil,YCS Sao Paulo,455,Henrique Domingues Nascimento,YCS
-01-02-2025,Germany,European WCQ 2018,1624,Luke Parkes,YCS
-01-02-2025,United States,YCS Secaucus,1321,Dakota Angeloff,YCS
-01-02-2025,Czech Republic,YCS Prague II,1027,Raphael Neven,YCS
-01-02-2025,United States,YCS Dallas,1121,Imran Khan,YCS
-01-02-2025,Italy,YCS Rimini,1040,Andreas Vrellos,YCS
-01-02-2025,United States,YCS Origins,629,Jacob Phinney,YCS
-01-02-2025,United States,YCS Dallas,1287,Erik Christensen,YCS
-01-02-2025,United States,YCS Dallas,1131,Billy Brake,YCS
-01-02-2025,Brazil,YCS Sao Paulo,350,Carlos Henrique De Araujo Freitas,YCS

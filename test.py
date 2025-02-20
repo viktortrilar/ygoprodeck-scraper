@@ -18,6 +18,7 @@ response_regionals = requests.get(scraper_url_regionals)
 response_YCS = requests.get(scraper_url_YCS)
 
 tournaments = []
+# Get only tournaments from this date onward
 cutoff_date = datetime(2024, 12, 9)
 
 # Function to get tournament data
@@ -26,7 +27,7 @@ def get_tournaments(response, tier_label):
         tournament_data = response.json() 
         if 'data' in tournament_data:            
             for tournament in tournament_data['data']:
-                # Check that tournament is the selected cutoff time then format date
+                # Check that tournament is in the selected cutoff time then format date
                 og_date = tournament.get("event_date", "")
                 if og_date:
                     tournament_date = datetime.strptime(og_date, "%Y-%m-%d")
@@ -49,6 +50,9 @@ def get_tournaments(response, tier_label):
 # Get tournament data
 get_tournaments(response_regionals, "Regional")
 get_tournaments(response_YCS, "YCS")
+
+# Sort by date, with newest on top
+tournaments.sort(key=lambda x: datetime.strptime(x["Date"], "%d-%m-%Y"), reverse = True)
 
 # Combine and write data to CSV
 with open('tournament_data.csv', mode='w', newline='', encoding='utf-8') as file:
